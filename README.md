@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajsherrell
 - 👀 I’m interested in Kotlin and MAD
-- 🌱 I’m currently learning Jetpack Compose
+- 🌱 I love writing Jetpack Compose
 - 📫 How to reach me ajsherrell.ajacks@gmail.com
 
 <!---
